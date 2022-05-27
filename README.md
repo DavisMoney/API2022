@@ -23,6 +23,7 @@ REST. https://www.breakingbadapi.com/api/
 
 
 To do
+
 -print out json of character
 
 -make better looking print out -name -age and more
