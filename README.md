@@ -20,3 +20,11 @@ It is accessible with REST, https://api.aniapi.com
 This API is for the fans of the tv show breaking bad, It shows you all the information from any character in any of the shows connected with or from breaking bad. 
 It gives you character info, episode info, deaths, and quotes. It is accessible via 
 REST. https://www.breakingbadapi.com/api/
+
+
+To do
+-print out json of character
+
+-make better looking print out -name -age and more
+
+-ask user what character they would like to see
