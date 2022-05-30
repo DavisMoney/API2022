@@ -22,7 +22,7 @@ It gives you character info, episode info, deaths, and quotes. It is accessible 
 REST. https://www.breakingbadapi.com/api/
 
 
-To do
+To do:
 
 -print out json of character
 
