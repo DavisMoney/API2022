@@ -12,7 +12,7 @@ IMDB APIs: https://imdb-api.com/api/#Title-header
 Web API stands for Application Programming Interface, it is a piece of technology that allows two different systems to talk to each other. 
 For example a waiter gets your order from your table and then delivers it to the kitchen to be made.
 
-Two Public APIs
+## Two Public APIs
 
 1. AniAPI or an Anime API
 This API is used for Discovering animes, streaming anime, and syncing with tracker.
