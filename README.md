@@ -3,9 +3,11 @@ Breaking Bad API
 https://breakingbadapi.com/documentation
 base URL https://www.breakingbadapi.com/api/
 https://rapidapi.com/blog/how-to-use-an-api-with-java/
+WizardWorld API: https://github.com/MossPiglets/WizardWorldAPI
+HTTP Request: https://www.twilio.com/blog/5-ways-to-make-http-requests-in-java
+IMDB APIs: https://imdb-api.com/api/#Title-header
 
-
-What is a web (API)
+## What is a web (API)
 
 Web API stands for Application Programming Interface, it is a piece of technology that allows two different systems to talk to each other. 
 For example a waiter gets your order from your table and then delivers it to the kitchen to be made.
