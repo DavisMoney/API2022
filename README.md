@@ -6,7 +6,7 @@ https://rapidapi.com/blog/how-to-use-an-api-with-java/
 WizardWorld API: https://github.com/MossPiglets/WizardWorldAPI
 HTTP Request: https://www.twilio.com/blog/5-ways-to-make-http-requests-in-java
 IMDB APIs: https://imdb-api.com/api/#Title-header
-
+New Http Request: https://stackoverflow.com/questions/2793150/how-to-use-java-net-urlconnection-to-fire-and-handle-http-requests
 ## What is a web (API)
 
 Web API stands for Application Programming Interface, it is a piece of technology that allows two different systems to talk to each other. 
