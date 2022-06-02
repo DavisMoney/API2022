@@ -1,0 +1,19 @@
+import java.util.Scanner;
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+
+class Main{
+    public static void main(String[] args) {
+        Scanner myObj = new Scanner(System.in);  // Create a Scanner object
+        System.out.println("Enter Character(Enter All for everyones name):");
+    }
+//Print JSON for Breaking Bad character
+
+
+//Print JSON for actor of character
+
+
+
+
+}
