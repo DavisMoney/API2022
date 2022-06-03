@@ -1,12 +1,6 @@
-// First set the default cookie manager.
+// This is the cookie manager for maintaining the session
+// CookieHandler API: https://docs.oracle.com/javase/8/docs/api/java/net/CookieHandler.html
+
 CookieHandler.setDefault(new CookieManager(null, CookiePolicy.ACCEPT_ALL));
-
-// All the following subsequent URLConnections will use the same cookie manager.
-URLConnection connection = new URL(url).openConnection();
-// ...
-
-connection = new URL(url).openConnection();
-// ...
-
-connection = new URL(url).openConnection();
-// ...
+URLConnection connection = new URL(https://www.breakingbadapi.com/api/).openConnection();
+connection = new URL(https://www.breakingbadapi.com/api/).openConnection();
