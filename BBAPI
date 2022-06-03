@@ -1,9 +1,14 @@
+int status = httpConnection.getResponseCode();
+
 String url = "https://www.breakingbadapi.com/api/";
 String charset = "UTF-8";  
-String param1 = "value1";
-String param2 = "value2";
-// ...
+String limit = "10";
+String offset = "10";
 
-String query = String.format("param1=%s&param2=%s",
-    URLEncoder.encode(param1, charset),
-    URLEncoder.encode(param2, charset));
+String query = String.format("limit=%s&offset=%s",
+    URLEncoder.encode(limit, charset),
+    URLEncoder.encode(offset, charset));
+
+URLConnection connection = new URL(url + "https://www.breakingbadapi.com/api/" + query).openConnection();
+connection.setRequestProperty("Accept-Charset", charset);
+InputStream response = connection.getInputStream();
